@@ -1,0 +1,1 @@
+### Product versioning with MEF
